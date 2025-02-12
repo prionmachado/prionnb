@@ -1,0 +1,12 @@
+OrderID,Product,Quantity,Price
+101,Widget A,50,10.5
+102,Widget B,30,8.75
+103,Widget A,20,10.5
+104,Widget C,15,15.2
+105,Widget B,40,8.75
+106,Widget A,25,10.5
+107,Widget C,35,15.2
+108,Widget B,10,8.75
+109,Widget A,15,10.5
+110,Widget C,45,15.2
+111,Widget C,40,15
